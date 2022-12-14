@@ -26,17 +26,17 @@
 <?php
 $presentation = 'masterchieff era diretto in una nuova fantastica avventura, ovvero fucili grossi dal calibro grosso per sparare addosso a cose grosse ';
 
-$first_curse = 'masterchief: ';
-$first_curse_description = 'qui sierra 117, cortana ti ricevo, mi trovo su nobel six in questo momento, attendo ulteriori istruzioni';
+$first_text = 'masterchief: ';
+$first_text_description = 'qui sierra 117, cortana ti ricevo, mi trovo su nobel six in questo momento, attendo ulteriori istruzioni';
 
-$second_curse = 'Cortana: ';
-$second_curse_description = 'qui Cortana, daje masterchief andiamo a sparare in modo ignorante';
+$second_text = 'Cortana: ';
+$second_text_description = 'qui Cortana, daje masterchief andiamo a sparare in modo ignorante';
 
-$third_curse = 'masterchief: ';
-$third_curse_description = 'e se aprissimo un bar lungo spiaggia? potrei usare l armatura per far divertire i bambini';
+$third_text = 'masterchief: ';
+$third_text_description = 'e se aprissimo un bar lungo spiaggia? potrei usare l armatura per far divertire i bambini';
 
 
-$full_text = $presentation . ' ' . $first_curse . ' ' . $first_curse_description . ' ' . $second_curse . ' ' . $second_curse_description . ' ' . $third_curse  . ' ' . $third_curse_description;
+$full_text = $presentation . ' ' . $first_text . ' ' . $first_text_description . ' ' . $second_text . ' ' . $second_text_description . ' ' . $third_text  . ' ' . $third_text_description;
 
 
 $badword = "***";
